@@ -19,6 +19,15 @@ YOLOv4-large 在COCO数据集达到SOTA精度: 55.4% AP(73.3% AP50) 并以以15 
    
    - [上达最高精度，下到最快速度，Scaled-YOLOv4：模型缩放显神威](https://mp.weixin.qq.com/s/Uo5pge7uq-Bh_wR9Vd5M7w)
    - [Github](https://github.com/WongKinYiu/ScaledYOLOv4)
+   
+   ## 3.NanoDet
+   
+  ### [NanoDet：轻量级（1.8MB）、超快速（移动端97fps）目标检测项目](https://mp.weixin.qq.com/s/KC-QxYZf2471OICDFra7Zw)
+   
+  ### [YOLO之外的另一选择，手机端97FPS的Anchor-Free目标检测模型NanoDet现已开源~](https://mp.weixin.qq.com/s/7mHhltqDcnYZdHWoRS_EBg)
+   
+   - 1.8MB超轻量，跑的比 YOLO 快
+   - [Github](https://github.com/RangiLyu/nanodet)
 
 
 # Salient Object Detection (SOD)
