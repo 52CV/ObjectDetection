@@ -26,7 +26,7 @@
 
 * 📜 [Scaled-YOLOv4: Scaling Cross Stage Partial Network](https://arxiv.org/2011.08036)<br>
    * YOLOv4-large 在COCO数据集达到SOTA精度: 55.4% AP(73.3% AP50) 并以以15 fps 在 Tesla V100运行, 而如果加上测试阶段数据增强方法后,YOLOv4-large 达到 55.8% AP (73.2 AP50). 作者称这一精度是所有已公开文献的最高精度.
-   * [上达最高精度，下到最快速度，Scaled-YOLOv4：模型缩放显神威](https://mp.weixin.qq.com/s/Uo5pge7uq-Bh_wR9Vd5M7w)
+   * 解读：[上达最高精度，下到最快速度，Scaled-YOLOv4：模型缩放显神威](https://mp.weixin.qq.com/s/Uo5pge7uq-Bh_wR9Vd5M7w)
    * :star:[Github](https://github.com/WongKinYiu/ScaledYOLOv4)
    
    <a name="3"/>
@@ -48,7 +48,7 @@
 
 * 📜 [U2-Net: Going Deeper with Nested U-Structure for Salient Object Detection](https://arxiv.org/abs/2005.09007)
    * ICPR 2020
-   * [Github](https://github.com/NathanUA/U-2-Net)
+   * :star:[Github](https://github.com/NathanUA/U-2-Net)
 
 <a name="1"/>
 
