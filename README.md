@@ -13,7 +13,7 @@
 
 ## 3.EfficientDet
 
-### [EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/abs/1911.09070)
+* :newspaper:[EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/abs/1911.09070)
 <br>EfficientDet 是谷歌大脑团队在2020年3月发布的一个目标检测模型。与之前的检测器如 Mask R-CNN 相比，它以更少的参数和 FLOPs 达到了最先进的 53.7%COCO 平均精度（AP）。有 8 种变体，从 D0 到 D7，尺寸和精度都在不断改进。此外，最近发布了一个超大版本 D7x，达到 55.1% 的 AP。<br>
 - CVPR 2020
 - [Github](https://github.com/google/automl/tree/master/efficientdet)
