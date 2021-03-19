@@ -9,6 +9,9 @@
 |:free:|[EfficientDet](#5)|[YOLO 系列](#4)|
 |[NanoDet](#3)|[U^2-Net](#2)|[BASNet](#1)|
 
+
+
+
 <a name="5"/>
 
 ## 3.EfficientDet
@@ -27,8 +30,13 @@
 * 📜 [Scaled-YOLOv4: Scaling Cross Stage Partial Network](https://arxiv.org/2011.08036)<br>
    * YOLOv4-large 在COCO数据集达到SOTA精度: 55.4% AP(73.3% AP50) 并以以15 fps 在 Tesla V100运行, 而如果加上测试阶段数据增强方法后,YOLOv4-large 达到 55.8% AP (73.2 AP50). 作者称这一精度是所有已公开文献的最高精度.
    * 解读：[上达最高精度，下到最快速度，Scaled-YOLOv4：模型缩放显神威](https://mp.weixin.qq.com/s/Uo5pge7uq-Bh_wR9Vd5M7w)
-   * :star:[Github](https://github.com/WongKinYiu/ScaledYOLOv4)
-   
+   * :star:[Github](https://github.com/WongKinYiu/ScaledYOLOv4) 
+
+* YOLOv5
+  * :star:[code](https://github.com/ultralytics/yolov5)
+  * 解读：[YOLOv5来了！基于PyTorch，体积比YOLOv4小巧90%，速度却超2倍](https://mp.weixin.qq.com/s/QGPZQN4-nAMONtIrWQzBfQ)
+  
+  
    <a name="3"/>
    
    ## 1.NanoDet
@@ -58,3 +66,17 @@
    * 在单个GPU上的运行速度超过25 fps
    * CVPR 2019
    * :star:[Github](https://github.com/NathanUA/BASNet)
+
+<a name="*"/>
+
+##  用于手机端实时检测 
+
+* NanoDet
+  * :star:[code](https://github.com/RangiLyu/nanodet)
+  * 解读：[NanoDet：轻量级（1.8MB）、超快速（移动端97fps）目标检测项目](https://mp.weixin.qq.com/s/KC-QxYZf2471OICDFra7Zw)
+  * 解读：[YOLO之外的另一选择，手机端97FPS的Anchor-Free目标检测模型NanoDet现已开源~](https://mp.weixin.qq.com/s/7mHhltqDcnYZdHWoRS_EBg)
+
+* YOLObile
+  * :star:[code](https://github.com/nightsnack/YOLObile)
+  * [手机端 19FPS 的实时目标检测算法：YOLObile](https://mp.weixin.qq.com/s/8kyQoxvRPrU48xSJwvUGJA)
+
