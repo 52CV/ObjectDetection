@@ -31,10 +31,13 @@
    * YOLOv4-large 在COCO数据集达到SOTA精度: 55.4% AP(73.3% AP50) 并以以15 fps 在 Tesla V100运行, 而如果加上测试阶段数据增强方法后,YOLOv4-large 达到 55.8% AP (73.2 AP50). 作者称这一精度是所有已公开文献的最高精度.
    * 解读：[上达最高精度，下到最快速度，Scaled-YOLOv4：模型缩放显神威](https://mp.weixin.qq.com/s/Uo5pge7uq-Bh_wR9Vd5M7w)
    * :star:[Github](https://github.com/WongKinYiu/ScaledYOLOv4) 
-
 * YOLOv5
   * :star:[code](https://github.com/ultralytics/yolov5)
-  * 解读：[YOLOv5来了！基于PyTorch，体积比YOLOv4小巧90%，速度却超2倍](https://mp.weixin.qq.com/s/QGPZQN4-nAMONtIrWQzBfQ)
+  * 解读：[YOLOv5来了！基于PyTorch，体积比YOLOv4小巧90%，速度却超2倍](https://mp.weixin.qq.com/s/QGPZQN4-nAMONtIrWQzBfQ)  
+* YOLObile
+  * :star:[code](https://github.com/nightsnack/YOLObile)
+  * [手机端 19FPS 的实时目标检测算法：YOLObile](https://mp.weixin.qq.com/s/8kyQoxvRPrU48xSJwvUGJA)
+  * [YOLObile:面向移动设备的「实时目标检测」算法](https://mp.weixin.qq.com/s/OP5iLZtIABNcn_LFyBWOeA)
   
   
    <a name="3"/>
@@ -79,4 +82,5 @@
 * YOLObile
   * :star:[code](https://github.com/nightsnack/YOLObile)
   * [手机端 19FPS 的实时目标检测算法：YOLObile](https://mp.weixin.qq.com/s/8kyQoxvRPrU48xSJwvUGJA)
+  * [YOLObile:面向移动设备的「实时目标检测」算法](https://mp.weixin.qq.com/s/OP5iLZtIABNcn_LFyBWOeA)
 
